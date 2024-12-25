@@ -1,6 +1,6 @@
 android_app_import {
-        name: "InnerTune",
-        apk: "InnerTune_v0.5.10_foss.apk",
+        name: "OuterTune",
+        apk: "OuterTune-0.6.4-arm64-release.apk",
         presigned: true,
         privileged: true,
         preprocessed: true,
