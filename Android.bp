@@ -1,6 +1,6 @@
 android_app_import {
-        name: "aurora-store",
-        apk: "aurora-store-4-6-4.apk",
+        name: "AuroraStore",
+        apk: "AuroraStore-4-6-4.apk",
         presigned: true,
         privileged: true,
         preprocessed: true,
